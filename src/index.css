@@ -1,0 +1,26 @@
+.yesButton {
+  background-color: green;
+  border-width: 0ch;
+  margin-top: 25px;
+  margin-right: 20px;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+.noButton {
+  background-color: red;
+  border-width: 0ch;
+  margin-top: 25px;
+  margin-right: 20px;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+.textA {
+  font-size: 30px;
+  font-weight: bold;
+}
+.text {
+  font-size: 30px;
+  font-weight: bold;
+}
